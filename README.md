@@ -53,6 +53,7 @@ To execute this workflow, the following software and tools are required:
 ---
 
 This approach combines statistical transformation, advanced modeling, and rigorous feature engineering to effectively predict missing NMR logs in regions of interest.
-
+# Data
+I have made the data files available and they are in csv format.
 ## Acknowledgement
 I would like to acknowledge Abhishek D. Bihani for the original source code for the synthetic well log polynomial regression, available on GitHub (https://github.com/abhishekdbihani/synthetic_well-log_polynomial_regression ). I have made slight modifications to the code to suit the specific needs of my project.
